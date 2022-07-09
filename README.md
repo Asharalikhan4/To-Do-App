@@ -1,5 +1,5 @@
 
-![banner]
+![React Todo App](./banner.png)
 
 # Getting Started with Create React App
 
