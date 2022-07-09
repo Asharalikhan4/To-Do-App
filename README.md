@@ -1,5 +1,5 @@
 
-"./banner.png"
+![banner]
 
 # Getting Started with Create React App
 
